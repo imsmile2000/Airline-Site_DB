@@ -23,11 +23,17 @@ Membership succes
 
 1번
 ![image](https://user-images.githubusercontent.com/69185594/211549468-243a5c09-626f-4b61-9093-253293b66e89.png)
+
 2번
+
 ![image](https://user-images.githubusercontent.com/69185594/211549490-3b591376-e613-4acf-b7fe-9c8d9eb5d9cc.png)
+
 3번
+
 ![image](https://user-images.githubusercontent.com/69185594/211549554-2284b702-1c07-4d57-b2a5-89790d994144.png)
+
 4번
+
 ![image](https://user-images.githubusercontent.com/69185594/211549768-8a120354-868b-4fb4-9703-0f81330680b4.png)
 
 ![image](https://user-images.githubusercontent.com/69185594/211549787-a3ff193f-1e0a-41e1-b241-95a184e96421.png)
