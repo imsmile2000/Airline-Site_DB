@@ -22,6 +22,7 @@ Membership succes
 ![image](https://user-images.githubusercontent.com/69185594/211549422-1e318234-2701-4bb7-a035-2328c228aa37.png)
 
 1번
+  
 ![image](https://user-images.githubusercontent.com/69185594/211549468-243a5c09-626f-4b61-9093-253293b66e89.png)
 
 2번
