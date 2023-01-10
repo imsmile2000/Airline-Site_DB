@@ -1,7 +1,7 @@
 # Airline-Site_DB
-2021 데이터베이스시스템  - 간단한 항공사 사이트 DB
+간단한 항공사 사이트 DB
 
-<login page>
+## <login page>
 
 ![image](https://user-images.githubusercontent.com/69185594/211549097-c65a2799-e9fa-4c92-acdb-64fd21be20f9.png)
 
@@ -16,8 +16,8 @@ Membership succes
 로그인
 
 ![image](https://user-images.githubusercontent.com/69185594/211549353-536c701c-a2a0-4fc3-809a-43a1a1b3bd91.png)
-
-<Main page>
+  
+## <Main page>
 
 ![image](https://user-images.githubusercontent.com/69185594/211549422-1e318234-2701-4bb7-a035-2328c228aa37.png)
 
