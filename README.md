@@ -18,7 +18,7 @@ Membership succes
 ![image](https://user-images.githubusercontent.com/69185594/211549353-536c701c-a2a0-4fc3-809a-43a1a1b3bd91.png)
   
 
-  <Main page>
+  메인 페이지
 
   ![image](https://user-images.githubusercontent.com/69185594/211549422-1e318234-2701-4bb7-a035-2328c228aa37.png)
 
